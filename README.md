@@ -133,6 +133,8 @@ pip install -r requirements.txt
 ## 👨‍💻 Author
 
 **Jagan Mohan Reddy**
+**Nelapati sravanth**
+**sashank abhiram**
 
 ---
 
